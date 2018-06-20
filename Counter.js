@@ -23,4 +23,4 @@ class Counter extends Component {
 const counter = new Counter()
 
 // replace the body of the page with the component
-render(counter, document.body)
+render(counter, document.querySelector('#root'))
