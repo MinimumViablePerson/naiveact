@@ -13,11 +13,11 @@ class Component {
 // Base Element object
 // Renders into an HTML element, with optional text and child elements
 class Element {
-  constructor (elementType, text, props = {}, ...children) {
+  constructor (elementType, text, props, ...children) {
     this.type = 'element'
     this.elementType = elementType
     this.text = text
-    this.props = props
+    this.props = props || {}
     this.children = children
   }
 
