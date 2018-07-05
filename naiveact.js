@@ -4,10 +4,13 @@ class Component {
     this.type = 'component'
     this.props = props
     this.setState = state => {
-      this.state = {...this.state, ...state}
+      this.state = { ...this.state, ...state }
       this.renderer && this.renderer()
     }
   }
+
+  // Your component must have a *render* method
+  // and that method must return an *Element*
 }
 
 // Base Element object

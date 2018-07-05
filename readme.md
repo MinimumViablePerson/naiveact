@@ -1,5 +1,9 @@
 # Naïveact
 
+<video width="618" height="347" preload>
+  <source src="naiveact-demo.mp4" type="video/mp4"></source>
+</video>
+
 An extremely naïve and oversimplified copy of React made from scratch in 42 lines of code for learning purposes.
 
 You can find an example counter app [here](https://minimumviableperson.github.io/naiveact/).
