@@ -2,7 +2,7 @@
 
 An extremely naïve and oversimplified copy of React made from scratch in 42 lines of code for learning purposes.
 
-You can find an example counter app [here](https://nmarcora.github.io/naiveact/).
+You can find an example counter app [here](https://minimumviableperson.github.io/naiveact/).
 
 ## How to use
 
