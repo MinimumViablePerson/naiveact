@@ -1,9 +1,6 @@
 # Naïveact
 
-<video width="618" height="347" preload>
-  <source src="naiveact-demo.mp4" type="video/mp4"></source>
-  Your browser doesn't support video.
-</video>
+![Naiveact Demo](naiveact-demo.gif "Naïveact Counter Demo")
 
 An extremely naïve and oversimplified copy of React made from scratch in 42 lines of code for learning purposes.
 
